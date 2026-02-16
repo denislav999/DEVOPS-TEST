@@ -31,6 +31,7 @@ public class MiniCalculator {
             // changed Example
             System.out.println("Example: 6 + 4");
             System.out.println("Operators: +  -  *  /  %  ^");
+            //change for add-form branch
             System.out.println("Type 'exit' to quit");
 
             if (sc.hasNextDouble()) {
