@@ -28,7 +28,8 @@ public class MiniCalculator {
         while (running) {
             System.out.println("\n--- MINI CALCULATOR ---");
             System.out.println("Enter: number operator number");
-            System.out.println("Example: 5 + 3");
+            // changed Example
+            System.out.println("Example: 6 + 4");
             System.out.println("Operators: +  -  *  /  %  ^");
             System.out.println("Type 'exit' to quit");
 
