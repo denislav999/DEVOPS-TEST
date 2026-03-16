@@ -52,7 +52,7 @@ public class MiniCalculator {
                 }
             }
         }
-
+// test comment
         System.out.println("Calculator closed.");
         sc.close();
     }
